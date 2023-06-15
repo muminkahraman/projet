@@ -6,7 +6,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  path: ./clusters/nextcloud
+  path: ./clusters/tp4/nextcloud
   prune: true
   sourceRef:
     kind: GitRepository
